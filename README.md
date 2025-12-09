@@ -1,4 +1,3 @@
-# AIDI1002-TianhengCheng-Project[README.md](https://github.com/user-attachments/files/24049496/README.md)
 # YOLOv7 Object Detection Project
 
 This project implements object detection based on YOLOv7, containing two models:
